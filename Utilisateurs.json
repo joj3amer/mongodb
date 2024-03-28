@@ -1,0 +1,122 @@
+[
+    {
+      "email": "john.doe@example.com",
+      "prenom": "John",
+      "nom": "Doe",
+      "telephone": "+1-555-1234"
+    },
+    {
+      "email": "maria.sanchez@example.com",
+      "prenom": "Maria",
+      "nom": "Sanchez",
+      "telephone": "+1-555-5678"
+    },
+    {
+      "email": "ahmed.ali@example.com",
+      "prenom": "Ahmed",
+      "nom": "Ali",
+      "telephone": "+44-123-4567"
+    },
+    {
+      "email": "sakura.tanaka@example.com",
+      "prenom": "Sakura",
+      "nom": "Tanaka",
+      "telephone": "+81-9-8765-4321"
+    },
+    {
+      "email": "mohammed.khan@example.com",
+      "prenom": "Mohammed",
+      "nom": "Khan",
+      "telephone": "+91-98765-43210"
+    },
+    {
+      "email": "anna.nowak@example.com",
+      "prenom": "Anna",
+      "nom": "Nowak",
+      "telephone": "+48-123-456-789"
+    },
+    {
+      "email": "juan.gomez@example.com",
+      "prenom": "Juan",
+      "nom": "Gomez",
+      "telephone": "+34-987-654-321"
+    },
+    {
+      "email": "luciana.silva@example.com",
+      "prenom": "Luciana",
+      "nom": "Silva",
+      "telephone": "+55-11-98765-4321"
+    },
+    {
+      "email": "hans.schmidt@example.com",
+      "prenom": "Hans",
+      "nom": "Schmidt",
+      "telephone": "+49-1234-567890"
+    },
+    {
+      "email": "mei.chen@example.com",
+      "prenom": "Mei",
+      "nom": "Chen",
+      "telephone": "+86-10-1234-5678"
+    },
+    {
+      "email": "alexander.ivanov@example.com",
+      "prenom": "Alexander",
+      "nom": "Ivanov",
+      "telephone": "+7-987-654-3210"
+    },
+    {
+      "email": "francesca.rossi@example.com",
+      "prenom": "Francesca",
+      "nom": "Rossi",
+      "telephone": "+39-02-1234-5678"
+    },
+    {
+      "email": "david.johnson@example.com",
+      "prenom": "David",
+      "nom": "Johnson",
+      "telephone": "+1-555-9876"
+    },
+    {
+      "email": "anastasia.petrova@example.com",
+      "prenom": "Anastasia",
+      "nom": "Petrova",
+      "telephone": "+7-987-654-3210"
+    },
+    {
+      "email": "ali.mohamed@example.com",
+      "prenom": "Ali",
+      "nom": "Mohamed",
+      "telephone": "+20-12-3456-7890"
+    },
+    {
+      "email": "emily.smith@example.com",
+      "prenom": "Emily",
+      "nom": "Smith",
+      "telephone": "+1-555-5555"
+    },
+    {
+      "email": "marina.fernandez@example.com",
+      "prenom": "Marina",
+      "nom": "Fernandez",
+      "telephone": "+34-987-654-321"
+    },
+    {
+      "email": "lydia.müller@example.com",
+      "prenom": "Lydia",
+      "nom": "Müller",
+      "telephone": "+49-9876-543210"
+    },
+    {
+      "email": "ji-hoon.kim@example.com",
+      "prenom": "Ji Hoon",
+      "nom": "Kim",
+      "telephone": "+82-10-9876-5432"
+    },
+    {
+      "email": "natalia.kowalska@example.com",
+      "prenom": "Natalia",
+      "nom": "Kowalska",
+      "telephone": "+48-987-654-321"
+    }
+  ]
